@@ -1,0 +1,9 @@
+.topbar{
+    position:absolute;
+    right: 0;
+    /* margin-left:10px; */
+}
+.sidebar{
+    background-image: url("../../../assets/img/sidebar-5.jpg");
+    opacity: 0.8;
+}
